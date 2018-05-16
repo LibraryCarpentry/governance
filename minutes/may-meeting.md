@@ -6,7 +6,7 @@
 - Cam Macdonell
 - Chris Erdmann
 - Tim Dennis
-- Greg Wislon
+- Greg Wilson
 - Juliane Schneider
 - John Chodacki
 
