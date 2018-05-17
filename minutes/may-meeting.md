@@ -40,7 +40,7 @@ I move that Library Carpentry conduct merger discussions with the Carpentries
 Tim Dennis seconded and the motion was carried unopposed on the call. This has been communicated to the EC of The Carpentries, and to Tracy Teal as ED.
 
 **4) Onboarding instructors to teach Library Carpentry (i.e. what we do at our CarpentryCon workshop)**
-There was some discussion of what to cover. belinda will start a document for sharing.
+There was some discussion of what to cover. Some of this has already been raised [here](https://github.com/LibraryCarpentry/new-website/issues/6)
 
 **5) Report from Chris Erdmann now he has started as Library Carpentry Community Dev person**
 
