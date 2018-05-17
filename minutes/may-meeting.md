@@ -53,3 +53,5 @@ we think we like both depending on audience (academic or public)
    
 **Other business**
 The question of "What constitutes a Library Carpentry workshop?" is to be decided over the coming months. [An issue for comment has been raised here](https://github.com/LibraryCarpentry/governance/issues/1). Please have your say.
+
+See also our governance etherpad: http://pad.software-carpentry.org/lc-gov-call
