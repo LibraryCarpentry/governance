@@ -18,7 +18,7 @@
 4) Onboarding instructors to teach Library Carpentry (i.e. what we do at our CarpentryCon workshop)
 5) Report from Chris Erdmann now he has started as Library Carpentry Community Dev person
 
-**1. A very successful sprint. **
+**1. A very successful sprint**
 
 - There were 3.1K views of the repositories and 341 unique visitors from 5/9 - 5/12
 - We had 151 pull requests and issues.
@@ -52,6 +52,7 @@ we think we like both depending on audience (academic or public)
    This will be raised with The Carpentries as Chris will report back.
    
 **Other business**
-The question of "What constitutes a Library Carpentry workshop?" is to be decided over the coming months. [An issue for comment has been raised here](https://github.com/LibraryCarpentry/governance/issues/1). Please have your say.
 
-See also our governance etherpad: http://pad.software-carpentry.org/lc-gov-call
+The question of `"What constitutes a Library Carpentry workshop?"` is to be decided over the coming months. [An issue for comment has been raised here](https://github.com/LibraryCarpentry/governance/issues/1). Please have your say.
+
+See also our governance meetings etherpad: http://pad.software-carpentry.org/lc-gov-call
