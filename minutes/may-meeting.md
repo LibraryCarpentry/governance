@@ -50,3 +50,6 @@ we think we like both depending on audience (academic or public)
    * We supported one in-person and one online training for these instructor trainings 
    
    This will be raised with The Carpentries as Chris will report back.
+   
+**Other business**
+The question of "What constitutes a Library Carpentry workshop?" is to be decided over the coming months. [An issue for comment has been raised here](https://github.com/LibraryCarpentry/governance/issues/1). Please have your say.
