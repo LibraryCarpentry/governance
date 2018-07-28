@@ -15,8 +15,8 @@ invite instructors from The Carpentries network.
 Our institution partners are interested in a (e.g. Silver Tier Software Carpentry membership, $7,500 for one year):
 
 * Benefits compared to (e.g. Bronze Tier, the lowest tier): 
-** Local institutional cohort of (e.g. 6) instructors trained online 
-** Greater access to The Carpentries infrastructure support and participation in community advisory groups
+* Local institutional cohort of (e.g. 6) instructors trained online 
+* Greater access to The Carpentries infrastructure support and participation in community advisory groups
 
 ### Resource Implications:
 
@@ -38,18 +38,18 @@ necessary, in person annual meetings.
 
 ### Value Proposition:
 
-Engage in strategic partnerships.  
+*Engage in strategic partnerships.*  
 Relatively low-cost opportunity to partner with (e.g. Research Office, Graduate School, IT) to advance the Libraries role 
 in enhancing research and supporting data science intiatives (on campus).
 
-Enhance (e.g. faculty and student) success.  
+*Enhance (e.g. faculty and student) success.*  
 The Libraries seeks to sponsor workshops, competitive programs, and shared activities that create opportunities for 
 (e.g. students and faculty) in all disciplines to develop and demonstrate their skills in research, software development, 
 digital scholarship, digital humanities, making, data science and visualization. The Carpentries are a natural extension 
 of this goal as it is already a workshop-based program which encourages the development of skills related to research 
 computing. Additionally, The Carpentries complements existing Libraries programming (e.g. open science, data visualization).
 
-Invest strategically in research infrastructure.  
+*Invest strategically in research infrastructure.*  
 Since The Carpentries draw upon volunteer instructors for their workshops, often from campus, local communities, or nearby 
 regions, the Libraries may leverage its research support staff and work with this community of expert volunteers to develop a 
 new model of research collaboration with its institutional partners. Library staff can leverage expertise related to 
@@ -60,7 +60,7 @@ for attracting attendees, and the opportunity for librarian instructors to facil
 partnership with The Carpentries presents opportunities for further collaboration with the (e.g. other units at the 
 institution) as these workshops develop the computing skills of scientists, engineers, digital humanists, and researchers.
 
-Foster interdisciplinarity.  
+*Foster interdisciplinarity.*  
 There have already been (e.g. number of workshops) held at the institution including... Further Carpentries workshops 
 can build on the popularity and success of the previous workshops, Libraries programs, and spaces. These workshops can 
 provide an additional vehicle for engagement and outreach to (e.g. faculty and students) at the institution.
