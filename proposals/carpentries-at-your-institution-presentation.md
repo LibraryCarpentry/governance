@@ -22,7 +22,7 @@ Day One
 * 9:00 – 12:00 Automating task with the Unix Shell
 * 12:00 -1:00 Lunch break
 * 1:00-4:00 Building Program with Python
-* 4:15-4:30 Wrap Up
+* 4:15-4:30 Wrap Up  
 Day Two
 * 9:00 – 12:00 Version Control with Git and GitHub
 * 12:00 -1:00 Lunch break
@@ -73,6 +73,5 @@ For Self-organized Workshops:
 * Organization is responsible for finding local instructors and handling the logistics of the workshop coordination 
 * It can be labeled as a Carpentry workshop if at least one instructor is certified and Carpentries content is taught
  
-Inspired by [https://www.cni.org/topics/teaching-learning/software-carpentry-in-the-library-partnering-to-give-researchers-needed-technical-skills]
-(https://www.cni.org/topics/teaching-learning/software-carpentry-in-the-library-partnering-to-give-researchers-needed-technical-skills)
+Inspired by https://www.cni.org/topics/teaching-learning/software-carpentry-in-the-library-partnering-to-give-researchers-needed-technical-skills
  
