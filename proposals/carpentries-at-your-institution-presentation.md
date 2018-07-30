@@ -31,7 +31,7 @@ Day Two
 * 1:00-4:00 Building Program with Python Continued
 * 4:15-4:30 Wrap Up
  
-Some Testimonials from University of Oklahoma
+### Some Testimonials from University of Oklahoma
 * “Thank you. I can now figure out where to begin with python, shell, and github, and can learn it by myself, not afraid of it.”
 * “This workshop should be mandatory for every RA at OU. Useful, very useful!”
  
