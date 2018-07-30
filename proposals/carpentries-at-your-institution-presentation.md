@@ -18,7 +18,8 @@
 * Discipline/role specific lessons
  
 ### Workshop Example Schedule
-Day One
+
+Day One  
 * 9:00 – 12:00 Automating task with the Unix Shell
 * 12:00 -1:00 Lunch break
 * 1:00-4:00 Building Program with Python
