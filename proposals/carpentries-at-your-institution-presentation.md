@@ -24,7 +24,8 @@ Day One
 * 12:00 -1:00 Lunch break
 * 1:00-4:00 Building Program with Python
 * 4:15-4:30 Wrap Up  
-Day Two
+
+Day Two   
 * 9:00 – 12:00 Version Control with Git and GitHub
 * 12:00 -1:00 Lunch break
 * 1:00-4:00 Building Program with Python Continued
