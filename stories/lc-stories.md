@@ -5,12 +5,12 @@ A list of stories from Library Carpentry community members based on the followin
 * How has Library Carpentry helped you?
 * What is the one thing you’ve learned, a positive thing, that you think will be useful (your green sticky)? 
 * What is the one thing that you’d like to improve about Library Carpentry (your red sticky)?
-* Do you have a link to a video you can share (under 3 minutes) where you answer the questions above?
-
-
+* Do you have a link to a video you can share (under 3 minutes) where you answer the questions above?  
+  
+  
 ![alt text](https://librarycarpentry.org/img/team/julianeschneider.jpg)
 ### Juliane Schneider
-### Harvard Catalyst | Clinical and Translational Science Center
+Harvard Catalyst | Clinical and Translational Science Center
 
 ### How has Library Carpentry helped you?
 Data savvy training helped me learn what coding and data cleanup tools were out there, and what they were used for. 
