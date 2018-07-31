@@ -8,9 +8,9 @@ A list of stories from Library Carpentry community members based on the followin
 * Do you have a link to a video you can share (under 3 minutes) where you answer the questions above?
 
 
+![alt text](https://librarycarpentry.org/img/team/julianeschneider.jpg)
 ### Juliane Schneider
 ### Harvard Catalyst | Clinical and Translational Science Center
-![alt text](https://librarycarpentry.org/img/team/julianeschneider.jpg)
 
 ### How has Library Carpentry helped you?
 Data savvy training helped me learn what coding and data cleanup tools were out there, and what they were used for. 
