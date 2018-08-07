@@ -7,8 +7,6 @@ The interim governance committee consists of
 - Kayleigh Lino (South Africa)
 - Cam Macdonell (Canada)
 - Juliane Schneider (USA)
-- Richard Vankoningsveld (Australia)
 - Belinda Weaver (Australia)
-- Greg Wilson (Canada) (Advisory Role)
 
 [See more.](http://librarycarpentry.org/#team)
