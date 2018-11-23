@@ -20,21 +20,19 @@
 * Certified Software Carpentry (SWC) instructor since May 5, 2015
 * Instructor of 11 SWC and 3 Library Carpentry (LC) workshops
 
-## Current State
-
-_The good news:_  
+## The good news: 
 Open Access is on its way to becoming the default publishing mode.
 
 _Science Europe: cOAlition S / Plan S_  
 https://www.coalition-s.org/
 
-_This doesn’t mean that research libraries are not needed anymore._  
+## This doesn’t mean that research libraries are not needed anymore. 
 Research libraries have new tasks.
 
-_The mission remains the same:_  
+## The mission remains the same: 
 Scientific libraries must preserve research output and provide access to it.
 
-_Libraries should become major publishers (again) and drivers of open access._
+## Libraries should become major publishers (again) and drivers of open access.
 Help scientific communities to flip their journals to open access or start new open access journals following the FAIR Open Access Principles.  
 https://www.fairopenaccess.org/
 
@@ -42,21 +40,19 @@ _PUBLISSO is the open access publication portal for the life sciences._
 https://www.publisso.de/
 
 >Research cycle  
-Idea->Study design->Financing->Data acquisition->Data analysis->Manuscript->Peer review->Publication->Idea
+Idea->Study design->Financing->Data acquisition->Data analysis->Manuscript->Peer review->Publication->Idea  
 Citizen science-Open Licenses-Social Media-Open Grants-Open Data-Open Lab Notebooks-Open Source-Collaborative writing-Pre-prints-Open Peer Review-Open Access-Open Educational Resources
 
-_Open science is the only way we should do science_
-
-_(From Konrad's experience) first hand experience with regard to the pressures on scientists for depositing, curating their data_  
+## Open science is the only way we should do science
+(From Konrad's experience) first hand experience with regard to the pressures on scientists for depositing, curating their data   
 Many tasks librarians can help with (licensing, curation, etc)  
 Also with regard to discovery, integration of tools
 
-_Not trivial!_  
+## Not trivial! 
 Numerous different file formats, licenses, privacy issues, legal requirements, provenance and interaction between different items…
 
-_Ultimately, access creates new problems:_
-Increased effort to find and process information.
-
+## Ultimately, access creates new problems:
+Increased effort to find and process information.  
 Libraries must provide skills training and build tools to find, connect, and integrate, literature, information, and data to create new knowledge.
 
 _LIVIVO - ZB MED Search Portal for Life Sciences_  
@@ -74,13 +70,13 @@ Certificate course - Data Librarian
 Integration of Library Carpentry in training program / certificate course  
 https://librarycarpentry.org/
 
-_Offer everybody at ZB MED_  
-One workshop per month (3 so far)
-Lessons: Unix Shell, Python, Git, and then more Python
-Workshops are in German
-Currently internal only but will be opened up
-Two additional instructors joining (Silvia Di Giorgio and Till Sauerwein)
-Silvia Di Giorgio taking a lead role in organizing workshops
+## Offer everybody at ZB MED 
+* One workshop per month (3 so far)
+* Lessons: Unix Shell, Python, Git, and then more Python
+* Workshops are in German
+* Currently internal only but will be opened up
+* Two additional instructors joining (Silvia Di Giorgio and Till Sauerwein)
+* Silvia Di Giorgio taking a lead role in organizing workshops
 
 ## Feedback:
 * Overall experience has been good
