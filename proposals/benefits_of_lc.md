@@ -1,0 +1,3 @@
+## Paper to discuss benefits of LC for primarily library administrators
+
+...
