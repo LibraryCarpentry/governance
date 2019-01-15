@@ -12,3 +12,12 @@ paper on the benefits of Library Carpentry)
 8. Act as a sounding board and filter for the commmunity and determine best venues/groups for conversations (i.e. Curriculum Advisory Committee) 
 
 See Executive Council page for e.g. http://static.carpentries.org/governance/
+
+## Library Carpentry Governance Group Goals for 2019 (DRAFT)
+
+1. Develop paper for management on the benefits of Library Carpentry/Carpentries in libraries
+  1. Take a page from https://vtechworks.lib.vt.edu/handle/10919/18649 or http://hdl.handle.net/10919/18649 ?
+2. Look into communication channels and see if we can help with channel overload (GitHub, Slack, Gitter, Topicbox, Twitter, Facebook, team@)
+3. Inspire seasoned community members to encourage new members to teach workshops and/or speak on behalf of LC
+
+See list above for additional goals
