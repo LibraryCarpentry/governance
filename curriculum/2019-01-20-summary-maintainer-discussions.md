@@ -56,9 +56,10 @@ Library Carpentry lessons have not been formally published via Zenodo (like othe
 
 1. [Carpentries Handbook - Maintainers](https://docs.carpentries.org/topic_folders/maintainers/maintainers.html)
 2. [Maintainers Onboarding](https://carpentries.github.io/maintainer-onboarding/index.html)
-3. [Library Carpentry Lessons](https://librarycarpentry.org/lessons/) - Lists Maintainers and leads
-4. [Library Carpentry Experimental Lessons](https://pad.carpentries.org/lc-experimental-lessons)
-5. [Carpentries Handbook - Lesson Development](https://docs.carpentries.org/topic_folders/lesson_development/index.html)
+3. [Curricular aspects of Maintainer Onboarding](https://github.com/LibraryCarpentry/governance/issues/10#issuecomment-453713612)
+4. [Library Carpentry Lessons](https://librarycarpentry.org/lessons/) - Lists Maintainers and leads
+5. [Library Carpentry Experimental Lessons](https://pad.carpentries.org/lc-experimental-lessons)
+6. [Carpentries Handbook - Lesson Development](https://docs.carpentries.org/topic_folders/lesson_development/index.html)
 
 
 ## External Resources Mentioned
