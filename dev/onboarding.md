@@ -28,4 +28,4 @@ Librarians are very keen to discuss how will they use and apply the skills learn
 
 - Need for workarounds for people who have no laptop/no ability to install software
 
-- Need for handouts and cheat sheets - much mroe inportant than in SWC and DC workshops
+- Need for handouts and cheat sheets - much more inportant than in SWC and DC workshops
