@@ -1,0 +1,26 @@
+![Carpentries Logo](https://raw.githubusercontent.com/carpentries/logo/master/TheCarpentries.png "Carpentries Logo") 
+
+### An Introduction to The Carpentries
+
+Around the globe, information management has increasingly come to depend on sophisticated use of data and software. In many communities, however, professional development has not kept pace. [The Carpentries](https://carpentries.org/) is a non-profit organization and global community dedicated to building capacity in data and computing skills through hands-on computational workshops tailored to a particular audience. The organization is composed of three communities: Software Carpentry and Data Carpentry, which focus on individuals conducting and supporting efficient, open, and reproducible research, and Library Carpentry, which was created to teach new skills and competencies required for the operation of a modern research library including data manipulation and organization, text and data mining, and workflow versioning and management. While many aspects of the Carpentries community are openly available, libraries can also become members to have access to low-cost opportunities for staff professional development and training.
+
+### The Value of Library Carpentry
+
+Library Carpentry workshops provide professional development opportunities to library staff, enabling them to deliver data services to their colleagues and community, create reproducible workflows for data-centric tasks in the library, and adopt a common language to use with researchers that can pave the way to greater collaboration between the library and the broader research community. Library Carpentry is also a global community, with a thriving network of library and information professionals who support each other in integrating data best practices into Library work. As a global community, the Carpentries has extensive experience working and teaching in online environments, and can equip library staff with the skills to confidently engage in virtual instruction.
+
+### Library Carpentry Workshops
+Generally requiring no previous software experience, the one to two-day, in-person or online Library Carpentry workshops use the pedagogical practices of live coding, pair programming, discussion, and exercises, to create a safe and collaborative space to learn important concepts in computing and data. [The curriculum is openly available](https://librarycarpentry.org/lessons/) and collaboratively designed to meet the needs of a wide variety of library staff and can be customized for a particular workshop audience. Workshop attendees might include:
+
+*	A cataloging librarian learning OpenRefine software to quickly review and clean metadata spreadsheets, allowing them to save countless hours.
+* A digital archivist learning Git and GitHub to version control and publish digital humanities projects so they can preserve and provide access to new forms of scholarship
+* A data librarian learning unix to collaborate on large files with researchers, allowing them to offer a new service to the research community
+* An assessment librarian learning best practices for working with data so they can organize and assess library-class data to prove the impact of library instruction on student outcomes
+
+In addition to the material covered in a workshop, librarians involved in The Carpentries have opportunities to advance their teaching skills by entering the Carpentries instructor training program, which focuses on equipping librarians with evidence-based practices for teaching adult learners. This same skill enables any or all on a library staff to teach computational skills training to members of the research and education communities who may not have access to other, campus-based approaches to learning these skills.  
+
+Lastly, librarians who have participated in workshops and/or have become certified instructors may contribute to the development and refinement of The Carpentries open source curriculum for use not only in Library Carpentry workshops offered in the library, but also as a basis for new classes that highlight local collections and areas of expertise.
+
+### Membership Opportunities
+By [becoming a member of the Carpentries](https://carpentries.org/membership/), libraries can provide ongoing professional development opportunities for their staff and access pre-designed training for their campus community. Membership includes access to coordinated workshops for librarians or the research community, priority access to certified instructors, and opportunities to train staff in the pedagogical approach of the Carpentries. Membership fees range from $7,500 to $15,000 and include varying numbers of Carpentries centrally coordinated workshops and seats in Carpentries Instructor Training courses. Libraries are also encouraged to pursue collaborative memberships (e.g. [New England Software Carpentry Library Consortium](https://nesclic.github.io/)) with others in their region to reduce costs and increase local engagement.
+
+Every organization has different challenges and goals, so every Carpentries membership is the result of a conversation. If the types of membership above do not seem right for your organization, please do not hesitate to [contact The Carpentries](mailto:memberships@carpentries.org) to discuss how we can work together.
