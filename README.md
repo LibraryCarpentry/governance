@@ -9,7 +9,9 @@ Repository for minutes and notes and other materials relating to the Library Car
 - [Advisory group Topicbox Listserv](https://carpentries.topicbox.com/groups/library-advisory-group ) - for discussions, by invitation only
 
 **For Library Carpentry Community Support:**
+- [Library Carpentry Website](https://librarycarpentry.org/)
+- [Library Carpentry Outreach materials](https://github.com/LibraryCarpentry/governance/tree/master/proposals) - Funding proposals and outreach materials related to Library Carpentry
 - [Library Carpentry Zotero](https://www.zotero.org/groups/2540224/librarycarpentry ) - for LC-related articles
-- [#libraries channel in the Carpentries slack](https://swc-slack-invite.herokuapp.com/) - for wider library conversations
-- [Libraries Topic Box Listserv](https://carpentries.topicbox.com/groups/discuss-library-carpentry)  
+- [#libraries channel in the Carpentries slack](https://swc-slack-invite.herokuapp.com/) - for conversations with the wider LC community
+- [Libraries Topic Box Listserv](https://carpentries.topicbox.com/groups/discuss-library-carpentry) - for conversations with the wider LC community
 - [@LibCarpentry on Twitter](https://twitter.com/LibCarpentry) 
