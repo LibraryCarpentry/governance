@@ -11,5 +11,5 @@ Repository for minutes and notes and other materials relating to the Library Car
 **For Library Carpentry Community Support:**
 - [Library Carpentry Zotero](https://www.zotero.org/groups/2540224/librarycarpentry ) - for LC-related articles
 - [#libraries channel in the Carpentries slack](https://swc-slack-invite.herokuapp.com/) - for wider library conversations
-- [Libraries Topic Box Listserv] (https://carpentries.topicbox.com/groups/discuss-library-carpentry)  
+- [Libraries Topic Box Listserv](https://carpentries.topicbox.com/groups/discuss-library-carpentry)  
 - [@LibCarpentry on Twitter](https://twitter.com/LibCarpentry) 
