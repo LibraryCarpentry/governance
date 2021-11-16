@@ -1,0 +1,179 @@
+### November meetings
+
+### Meeting 1 
+15/16 November 2021 (see the time in your timezone: https://www.google.com/url?q=https://www.timeanddate.com/worldclock/fixedtime.html?msg%3DLCAG%2Bmeeting%2B1%2B%26iso%3D20211116T09%26p1%3D240%26ah%3D1%26am%3D30&sa=D&source=calendar&ust=1637440609804551&usg=AOvVaw3OYiyQbHDYIjs2ZOgiZfaP)
+In attendence
+Cody Hennesy
+Catherine Nancarrow
+Annajiat Alim Rasel
+Sara King
+Liz Stokes
+Lisa McAulay
+Alycia Crall
+Apologies: Chris Erdmann, Eka
+
+## Agenda
+Round robin: What's happening in your area? Interesting opportunities or challenges to share?
+LC Survey: https://rstudio.cloud/project/3213450
+I think this works: https://5346b699003b448395811d3690cc76a8.app.rstudio.cloud/file_show?path=%2Fcloud%2Fproject%2FLC_survey_2021.html
+LC Curriculum Advisory Committee update
+LCAG succession planning for 2022
+https://docs.google.com/document/d/1DQ629EINwoJarqB7fqMmYdQWETJJDs38r2HR77a1qiQ/edit
+LCAG check in 
+Procedural elements for making decisions across split meetings
+ LCAG mailing list 
+ Inviting LCAG to upcoming CAC onboardings in January 
+Community Development Program 
+
+## Notes
+
+1. Round Robin
+Cody - 
+Uni Minnesota - end of hiring freeze and pandemic conditions mean that nothing new is happening in terms of local Carpentries workshops, maintaining status quo only. Working on Issue LCAG #36 - interviews underway with library staff on Carpentries (esp barriers, curriculum). 
+
+Catherine - UC - Pandemic also influencing output but librarians continuing, some with in-person workshops with great attendance. Still some campuses limited with in-person, but online workshops still happening. Lots of creativity demonstrated, bridge building with library/researchers/faculty working well. One week teaching collaboration - fashioned after UC Love Your Data week - combined efforts across campuses (UCLA, UC San Diego etc), very successfully, all Carpentries. A model that could be repeated by others. (Last year's blog here, one for this year on the way https://carpentries.org/blog/2020/10/teaching-a-library-carpentry-workshop-in-southern-california/) 
+
+Annajiat - 
+Workshops on Text & data mining, web-scraping, AI for GLAM etc. FAIRPoints event coming up thanks to Sara El Gebali - FAIRPoints,  January 28, 2022, 
+ https://www.scilifelab.se/event/fairpoints/
+Registration: https://www.lyyti.in/FAIRPoints_9550
+
+Sara -
+restructure dominating focus and Mary Filsell changed jobs/ unis. working towards a Dec deadline with Eka going online. Working on the Carpentries Consortium and community building aspects for that. Carpentries Connect Australia - benefited from kiwi neighbours (NZ) nice way to meet everyone - fill the gap since little interstate travel. Vound feally rewarding new people to Carpentries and recognising the generational differences of different people in the Carpentries (CN +1 - further info?)
+
+Liz - 
+https://ardc.edu.au/news/carpentries-partnership-for-australia-to-uplift-digital-research-skills/ - on the Consortium: the goal was to create more opportunities for more instructors, to allow more institutions to partner with the Carpentries as a more transactional way of working together with the Carpentries (universities partner with ARDC rather than Carpentries, ARDC main member). Next steps: developing Carpentries campus communities eg Slack channels; set up partners to be able to set up workshops independently. Also: Carpentry Connect AU/NZ event - 6hrs (with lots of breaks); Liz' first and first of AU;  excellent, engaged participation from everyone involved. Collaborative doc: https://docs.google.com/document/d/1GOCInJyQ8bs0DMBCLmGAbv6B7LxMKVuxD6TadiqhdsQ/edit#
+AI4LAM group  have released a report on teaching and learning resources in AI
+The AI4LAM Teaching and Learning working group was established in August 2020. Per the Charter the purpose of our group is to evaluate existing training needs in GLAMs and how they are currently met. We set out to explore pedagogical approaches and delivery mechanisms and to review available resources for teaching and learning AI. Over the past year we conducted a survey of existing training opportunities and generated a summary report about our findings.The report is now online and open for feedback from the ai4lam community.
+ https://sites.google.com/view/ai4lam/news/training-resources
+ 
+Lisa: 
+Maintainer role contintuing - main contribution in this area at the moment; communitcation and teaching workshop 8-9 days in a row - went very well, a lot of courses and participants; challenge for both library Carpentry maintainers as they are alone in maintenance - Erin and Daniel are aware of this, being worked on, but a difficult situation. 
+
+TIP from Annajiat for sketchy internet connection: in some of the workshops, we found it helpful to turn off incoming video by clicking on "view" in the upper right corner of the video area and , and choosing "stop incoming video".
+
+2. LC Survey:
+ https://rstudio.cloud/project/3213450 (original questionnaire here https://carpentries.typeform.com/to/zCkEJrkX)
+Interesting but not surprising to see the role breakdown with regard to engagement with Carpentries; Git + OpenRefine as most popular topics also expected; difference in role may influence frequency of referral / use of new knowledge gained from workshops; scraping or mining web content - there might be a disconnect with use of skills in own work (not much) or how much the workshop is taught (a lot). Not clear in results what the question is, the spectrum of respondents also very broad.
+Some of the summaries here would be useful to promote the Carpentries to librarians - breadth of usefulness is appealing!
+Some discution around the question on suggestions on how LC can support librarians in their work - does giving extra information help? There's a split there - some instructors don't reveal the full content of workshop lessons, some do. This creates a different result (potentially) for participants. 
+What can we address/take up from the results of this survey? Do we have a project page that covers the goals of the survey?
+Here is the git issue thread, https://github.com/LibraryCarpentry/governance/issues/19
+3. LC Curriculum Advisory Committee update - tabled
+Unable to find suitable time for group catch up
+4. LCAG succession planning for 2022 - tabled, please review doc below and add comments in the next two weeks;
+https://docs.google.com/document/d/1DQ629EINwoJarqB7fqMmYdQWETJJDs38r2HR77a1qiQ/edit
+Please comment and be ready to discuss at next meeting
+Do we know who will roll off (if anyone) in January? 
+Liz will share back via topicbox
+5. LCAG check in 
+Procedural elements for making decisions across split meetings
+Catherine: would prefer a single meeting, but understand the challenges. Absent that two 90 minute meetings is ok. 
+Liz: Could we use the Slack channel to flag shared items of interest. A summary going to the topicbox could help.
+Erin: she doesn't think she's on the right Slack or Topicbox channels. Could someone add Erin? Lisa invited to Slack. Liz will add to topicbox.
+Cody: Useful for summaries of meetings - although it feels disjointed, and I tend to not look back at the following meeting minutes. Possibly with a rotating role to share summaries with all groups. But that creates some time zone challenges (limited number of people could attend both). 
+Annajiat: simple proposal would be share link to Etherpad and encourage folks to look over minutes after each meeting. 
+
+
+7. Update - Erin Becker
+Who should be on the mailing list for the LCAG? Need an updated list
+Invitiation to onboarding for Library Curriculum Advisory Committee in January 2022 - need full list of ppl who would like an invite
+8. Call for input 
+Alycia Crall - Director of Community, leading the Community Development Team
+Change happening with some programs; conducting interviews (see link below); call for meeting if you'd like to contribute. Looking to streamline support to community leaders
+Community Development Program
+Blog introducing program: https://carpentries.org/blog/2021/10/announcing-community-development-program/
+Provide your feedback: https://docs.goole.com/forms/d/e/1FAIpQLSfOcg7I8WKM5aYcN47bHLY4hab7kTWztsgSWH4iYUUx3o0UYQ/viewform?usp=sf_link
+Schedule a meeting with Alycia: http://calendly.com/alycia-carpentries
+
+Meeting 2
+15/16 November 2021 (see time in your timezone )
+Apologies: Chris Erdmann
+
+Signin:
+Annajiat Alim Rasel
+Phil Reed (Manchester, UK)
+Birgit Schmidt (Göttingen, DE)
+Liz Stokes (Sydney, AU) 
+
+Meeting link carpentries zoom room 2
+Agenda
+Round robin: What's happening in your area? Interesting opportunities or challenges to share?
+LC Survey: https://rstudio.cloud/project/3213450
+to bring to meeting 2: what were the goals of the survey, and which activities going forward should we pursue
+LC Curriculum Advisory Committee update
+LCAG succession planning for 2022
+https://docs.google.com/document/d/1DQ629EINwoJarqB7fqMmYdQWETJJDs38r2HR77a1qiQ/edit
+LCAG check in 
+Procedural elements for making decisions across split meetings
+
+1. Round robin
+Birgit - joined  work in the context of the ENLIGHT university alliance (https://enlight-eu.org/) - a project that aims to create a joint R&I agenda (incl sharing research infras, mainstreaming Open Science), rolling out a Carpentries workshop in Dec for this group. Also I've convinced the LIBER association to become members! They hosted a satellite event in Dublin a few years back.  Now a new program for middle management, but the question for them is who will train it? Often a question of staff capacity to organise workshops, and as membership fees go up (just released to members yesterday). RDA Plenary 18 and L4RD IG hosted a session on open science initiatives in Asia. We have 3 new co-chairs - Chris and I are still there. Some other highlights at the RDA plenary included data stewardship. Recent report on knowledge exhange for reproducible research - will include link ()
+ Knowledge Exchange report on publishing reproducible research outputs, https://www.knowledge-exchange.info/news/articles/04-11-2021
+RDA Libraries for Research Data, session, https://docs.google.com/document/d/1qxlIbH1yLquuFrBCTkuzPE4kbn3eZyJHrAYXIm2nZYc/edit
+   
+Phil - Monthly UK Carpentries meeting discussion session topics: including how to plan a workshop, how to engage during and how to  engage afterwards.  Run by Nilani colleague in Manchester. Small turnout and would like to rerun wilth bigger scale.
+https://hackmd.io/_-IGgOYIT4-Nx8LbmSxdSQ?view
+
+Annajiat - hosted workshops. FAIRPoints event ith Sara El-Gebali, Chris and others is coming up. Also participating in the ARCOS community event recently specially ARCOS Symposium. 
+Event: https://www.scilifelab.se/event/fairpoints/
+FREE Registration: https://www.lyyti.in/FAIRPoints_9550
+
+Liz - https://ardc.edu.au/news/carpentries-partnership-for-australia-to-uplift-digital-research-skills/ - on the Consortium: the goal was to create more opportunities for more instructors, to allow more institutions to partner with the Carpentries as a more transactional way of working together with the Carpentries (universities partner with ARDC rather than Carpentries, ARDC main member). Next steps: developing Carpentries campus communities eg Slack channels; set up partners to be able to set up workshops independently. Also: Carpentry Connect AU/NZ event - 6hrs (with lots of breaks); Liz' first and first of AU;  excellent, engaged participation from everyone involved. Collaborative doc: https://docs.google.com/document/d/1GOCInJyQ8bs0DMBCLmGAbv6B7LxMKVuxD6TadiqhdsQ/edit#
+AI4LAM group  have released a report on teaching and learning resources in AI
+The AI4LAM Teaching and Learning working group was established in August 2020. Per the Charter the purpose of our group is to evaluate existing training needs in GLAMs and how they are currently met. We set out to explore pedagogical approaches and delivery mechanisms and to review available resources for teaching and learning AI. Over the past year we conducted a survey of existing training opportunities and generated a summary report about our findings.The report is now online and open for feedback from the ai4lam community.
+ https://sites.google.com/view/ai4lam/news/training-resources
+
+From Murray
+The lesson content the work of <me/org> and is licensed under <licence of choice> and copyrighted by <me/org>, please attribute <me/org>. The lesson style/template was the work of The Carpentries <link to repo>
+
+LC Survey
+About 100 responses. About 80 of these had actual involvement in the Carpentries, and 25 responses came from member institutions.
+In rendering the html via Knitr may need to check pop ups in Chrome
+Although Konrad was involved, Birgit carried the survey, should probably resume first author position.
+First Q - tell us a bit more about your involvment in the community.
+Most responses organising and hosting wroskhops.  
+Job rtoles also very diverse. Multiple responses.
+In Germany we have discipline librarians
+Question on workshop attendence - an alternative to the venn diagram of data/software/libra4y. Exclusive categories
+Workshop content: as most had attended LC, Git, OpenRefine and Unix shell dominated teh responses.
+Where do people apply their knowledge? Mainly own area and then suggesting tools to others
+Routines: This Likert scale each row add up to 100
+Free text field - need a volunteer to dig into the free text fields!
+Benefits  - follow up learning activities: In terms of advocacy these results are very useful for orgs considering membership eg LIBER.
+Demographics of institutions
+
+Used Carpentry self-guided material
+Question from the first meeting
+Would have been nice to have more responses - were expecting more? I had people in DM who don't categoise themselves as data managers - and maybe also should have shared this with the L4RD group?  Perhpas most responses we US based. Concerned about people who completed the surey with no knowlege of the carpentreis. Excited to see the answers are so diverse. The comments are very rich and we should form a little group to look deeper into the free text fields and do some categorisation and summary. Reflecting the characteristics of discipline librarians who pass on advide about tools and data handling techniques to their clients. The scrpaing mining webcontent I'm not sure if the curriculum group would like to take up this opportunities. But would like to 
+
+If were to do this again, what lessons from the experience could we draw?
+Would it be better to have more people? What support? Haveing one person dropping out at the beginning and then coordination was defintely a challenge especially with group members from different cities. 
+Still a bit of work in looking at the summary statistics - I'm not a social scientist, but would love to have someone like that to help out 
+
+Action: someone to analyse the free text fields and draw out key themes, and recommentaions for the LCAG to follow up.
+Action: take to the curriculum committee for new topics to develop?
+
+Free text fields. - 40-50 responses. 
+ 
+Phil: If I can use this dataset with a few colleagues in showing them Rstudio, can get a couple people intersted and report back to the mailing list. 
+
+Should we publish the data? on github? on zenodo? What is the best way to manage version control? Copy to own work environment.  
+
+Always a challenge to wrangle google forms or qualtrics to get it into Rstudio. But once it's inthere it's good.
+
+Wish R would become more prominent! 
+
+If you wish to work with the script on RStudio cloud please copy the project to your own work environment. Birgit might update the script in the coming days (one plot might be a wrong on, adding info about the Likert scale etc.). 
+
+4
+
+
+5 split structure
+Phil - we get the benefit of reading the first group but we never get the time? should there be more gap between the meetings? Appreciate the adminstrative overhead.
+Could we alternate which goes first?
+Birgit - would appreciate more reporting from the first meeting.
+Not against keeping the agenda the same
+Is there a tool we could use to vote on decisions - like a polling software?
+Annajiat - have been using in githob issue using the thumbs up for voting. This came up tin teh first meeting to reaffirm summarising the meetings and be a rotating role. 
+Birgit: What about every 3 months instead?
