@@ -1,6 +1,6 @@
 # Library Carpentry Advisory Committee Succession Planning
 
-This document outline processes for recruiting new members to the Library Carpentry Advisory Committee and activities required as part of onboarding and offboarding.
+This document outlines processes for recruiting new members to the Library Carpentry Advisory Committee and activities required as part of onboarding and offboarding.
 
 ## Process for membership recruitment checklist 
 - Co-Chairs lead the recruitment process
