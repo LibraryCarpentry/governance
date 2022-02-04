@@ -23,7 +23,7 @@ This document outlines processes for recruiting new members to the Library Carpe
 - Review Etherpad of previous LC Advisory Group meeting agendas/notes
 - Review Governance repo, review closed issues (from combined meeting), decide if issues should be reopened, new issues should be created, or abandoned
 - Bring issues/new ideas to prioritizing meeting, where members vote on the top 5-7 items to address in the next 1-2 years
-- Joint blog post with outgoing members, new members provide brief summary of where they are coming, why they want to be a part of the Advisory Group, and what they might want to work on moving forward.
+- Joint blog post with outgoing members, new members provide brief summary of where they are coming from, why they want to be a part of the Advisory Group, and what they might want to work on moving forward.
 
 ## Offboarding
 - Help with recruiting (replacements)
