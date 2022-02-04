@@ -43,5 +43,5 @@ We meet 4 times a year, and members of the Group volunteer to serve three year t
 - (Optional) Select one LC Lesson to follow and be involved in discussions on GitHub with Maintainers and community members.
 
 ### Core Team member 
-Each year a member from the Core Team is appointed as liason to LC-AC.
+Each year a member from the Core Team is appointed as liaison to LC-AC.
 
