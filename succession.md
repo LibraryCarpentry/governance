@@ -6,10 +6,10 @@ This document outlines processes for recruiting new members to the Library Carpe
 - Co-Chairs lead the recruitment process
 - Call for current members to indicate if they intend to relinquish roles
 - Identify number of members to replace
-- Draft EOI form [](using this template) 
-- Update blog post for call out and send to The Carpentries [](using this template)
+- Draft EOI form [https://docs.google.com/forms/d/11bkkHkQc1PbX5ez7frMtWLGPLWtQWBjmLrU3BGr7k4c/edit](using this template) 
+- Update blog post for call out and send to The Carpentries [https://carpentries.org/blog/2020/12/call-for-new-members-library-carpentry-advisory-group/](using this template)
 - Distribute EOI form with a reasonable turnaround
-- LCAG members assess the applications using the [](rubric)
+- LCAG members assess the applications using the [https://docs.google.com/spreadsheets/d/1VuRdDfI4_L2rFKYLRu7V6HYia6xuOf1goRSdvne7lJw/edit?usp=sharing](rubric)
 - If more applications than available seats, use the rubric scoring to identify the shortlist
 - Contact successful applicants and obtain info for LCAG website page
 - Open nominations for members to volunteer for Co-chairs or Secretary roles. If more nominations than roles available is received, a vote will be taken.
