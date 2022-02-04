@@ -15,7 +15,7 @@ This document outlines processes for recruiting new members to the Library Carpe
 - Open nominations for members to volunteer for Co-chairs or Secretary roles. If more nominations than roles available is received, a vote will be taken.
 
 ## Onboarding
-- New members provide bio information for Advisory Group page, see e.g. [Advisory Group webpage](https://librarycarpentry.org/advisory/) 
+- New members provide biography information for Advisory Group page, see e.g. [Advisory Group webpage](https://librarycarpentry.org/advisory/) 
 - Agree to attend at least 50-75% of the LC Advisory Group meetings and relay if you have meeting time constraints
 - Review [Roles and Responsibilities]()
 - New members encouraged to watch at least one LC lesson and consider joining the Maintainer team for that lesson, which provides context from lesson development (e.g. new or under development)
