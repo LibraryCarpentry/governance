@@ -28,7 +28,7 @@ This document outlines processes for recruiting new members to the Library Carpe
 ## Offboarding
 - Help with recruiting (replacements)
 - Identify leads on projects/issues opened 
-- By default close/sunset projects/issues, provide description/outcomes, present closed to issues to new members who can then reopen, create new issues, or abandon
+- By default close/sunset projects/issues, provide description/outcomes, present closed issues to new members who can then reopen, create new issues, or abandon
 - Be present at least a combined meeting where outgoing members can explain context of projects/issues to incoming members; identify at least one responsible person that will be available for follow up question
 - Joint blog post of welcoming new members, outgoing members, co-chairs responsible for spearheading blog post, individuals should provide summaries of what they did/would like to do (what interested them in joining). Outgoing members thanked for their service.
 - Add past members to Advisory Group page (page structure will need be developed)
