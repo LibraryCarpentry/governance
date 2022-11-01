@@ -45,3 +45,7 @@ We meet 4 times a year, and members of the Group volunteer to serve three year t
 ### Core Team member 
 Each year a member from the Core Team is appointed as liaison to LC-AC.
 
+## Resources for renewing membership of LCAG
+<a href="https://docs.google.com/forms/d/11bkkHkQc1PbX5ez7frMtWLGPLWtQWBjmLrU3BGr7k4c/edit">EOI form for applicants</a>
+<a href="https://docs.google.com/document/d/1JmGLZH3w3ovfGmy3eGBvb3-yLUCbRPaEc3cw0KPM6H4/edit">Onboarding and offboarding guidance</a>
+<a href="https://docs.google.com/spreadsheets/d/1VuRdDfI4_L2rFKYLRu7V6HYia6xuOf1goRSdvne7lJw/edit?usp=sharing">LCAG EOI Rubric for assessing applications</a>
