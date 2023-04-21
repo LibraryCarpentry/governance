@@ -77,7 +77,7 @@ Toby Hodges, Director of Curriculum
 
 - Yared Abera
 - Mary Filsell
-- Ekaterina Grguric (Chair)
+- Ekatarina Grguric (Chair)
 - Elizabeth McAulay (Secretary)
 - Belinda Weaver
 
