@@ -1,5 +1,6 @@
-# Library Carpentry Advisory Group
-Repository for materials relating to the Library Carpentry Advisory Group (formerly known as the Governance Group).
+# Library Carpentry Governance Committee
+Repository for materials relating to the Library Carpentry Governance Committee. 
+(The repository was previously maintained by the Library Carpentry Advisory Group previously known as the LC Governance Group).
 
 ## Key Resources
 
